@@ -1,4 +1,6 @@
-### Hi there 👋
+### 이현규 LeeHyunKyu
+
+will be dev and designer
 
 <!--
 **gusrb2776/gusrb2776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
